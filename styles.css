@@ -1,0 +1,27 @@
+body {
+    color: wheat;
+    background: rgb(0, 0, 0);
+}
+
+header {
+    border-bottom: solid 2px rgb(100, 0, 0);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(190, 0, 0);
+}
+
+section {
+    background: rgb(100, 0, 0);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+div {
+    margin-right: 20px;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
